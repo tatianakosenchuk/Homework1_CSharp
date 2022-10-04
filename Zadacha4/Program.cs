@@ -8,6 +8,7 @@ Console.WriteLine("Enter number1");
 int number1Ent = int.Parse(Console.ReadLine());
 Console.WriteLine("Enter number2");
 int number2Ent = int.Parse(Console.ReadLine());
+Console.WriteLine("Enter number3");
 int number3Ent = int.Parse(Console.ReadLine());
 int max = number1Ent;
 if(number2Ent > max) max = number2Ent;
